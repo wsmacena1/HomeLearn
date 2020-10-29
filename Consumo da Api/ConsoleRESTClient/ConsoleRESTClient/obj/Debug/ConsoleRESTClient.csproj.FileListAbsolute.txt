@@ -10,3 +10,15 @@ C:\Users\WilliansMacena\source\repos\ConsoleRESTClient\ConsoleRESTClient\obj\Deb
 C:\Users\WilliansMacena\source\repos\ConsoleRESTClient\ConsoleRESTClient\obj\Debug\ConsoleRESTClient.csproj.CopyComplete
 C:\Users\WilliansMacena\source\repos\ConsoleRESTClient\ConsoleRESTClient\obj\Debug\ConsoleRESTClient.exe
 C:\Users\WilliansMacena\source\repos\ConsoleRESTClient\ConsoleRESTClient\obj\Debug\ConsoleRESTClient.pdb
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\bin\Debug\ConsoleRESTClient.exe.config
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\bin\Debug\ConsoleRESTClient.exe
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\bin\Debug\ConsoleRESTClient.pdb
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\obj\Debug\ConsoleRESTClient.csprojAssemblyReference.cache
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\obj\Debug\ConsoleRESTClient.csproj.CoreCompileInputs.cache
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\obj\Debug\ConsoleRESTClient.csproj.CopyComplete
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\obj\Debug\ConsoleRESTClient.exe
+C:\Users\WilliansMacena\source\repos\ProjetosApi\Consumo da Api\ConsoleRESTClient\ConsoleRESTClient\obj\Debug\ConsoleRESTClient.pdb

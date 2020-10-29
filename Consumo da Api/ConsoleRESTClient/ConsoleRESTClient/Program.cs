@@ -24,14 +24,17 @@ namespace ConsoleRESTClient
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 
-                Console.WriteLine("GET");
-                HttpResponseMessage response = await client.GetAsync("api/produtos/4");
+                Console.WriteLine("GET \n Informe o Id desejado:");
+                string id = Console.ReadLine();
+                HttpResponseMessage response = await client.GetAsync("api/produtos/"+ id);
+                Console.Clear();
                 if (response.IsSuccessStatusCode)
                 {
                     Produto produto = await response.Content.ReadAsAsync<Produto>();
                     Console.WriteLine("{0}\t{1}\t{2}\t{3}", produto.Id, produto.Nome, produto.Categoria, produto.Preco);
+                    Console.ReadLine();
                 }
-
+                
             }
         }
     }

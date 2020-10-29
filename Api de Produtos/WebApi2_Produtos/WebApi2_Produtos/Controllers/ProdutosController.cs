@@ -63,5 +63,7 @@ namespace WebApi2_Produtos.Controllers
 
             repositorio.Remove(id);
         }
+
+        
     }
 }
